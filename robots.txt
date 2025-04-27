@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://mercan-medikal.com/wp-content/th/sitemap.xml
